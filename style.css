@@ -1,3 +1,9 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f4e6;
+  padding: 100px;
+  color: #666662;
+}
 h1 {
   font-family: Impact, Charcoal, sans-serif;
 }
