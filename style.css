@@ -5,10 +5,14 @@ body {
   color: #666666;
   text-align: center;
 }
-div {
-    -webkit-columns: 100px 3; /* Chrome, Safari, Opera */
-    -moz-columns: 100px 3; /* Firefox */
-    columns: 100px 3;
+.wrapper {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-gap: 10px;
+}
+
+.box {
+  border: 20px;
 }
 h1 {
   font-family: Impact, Charcoal, sans-serif;
