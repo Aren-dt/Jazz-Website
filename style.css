@@ -4,6 +4,7 @@ body {
   padding: 10px 200px 0px 200px;
   color: #666666;
   text-align: center;
+  line-height: 200%
 }
 .wrapper {
   display: grid;
