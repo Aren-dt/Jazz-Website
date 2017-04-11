@@ -15,7 +15,10 @@ body {
   border: 20px;
 }
 .box.videos {
-  text-align:right;
+  text-align: right;
+}
+.box.text {
+  padding: 50px;
 }
 h1 {
   font-family: Impact, Charcoal, sans-serif;
