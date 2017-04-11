@@ -3,7 +3,7 @@ body {
   background-color: #f4f4e6;
   padding: 10px 200px 0px 200px;
   color: #666666;
-  text-align: left;
+  text-align: center;
   line-height: 200%
 }
 .wrapper {
@@ -24,11 +24,11 @@ h1 {
 }
 h2 {
   font-family: "Arial Black", Gadget, sans-serif;
-  text-align: center;
+  text-align: left;
 }
 h3 {
   font-family: "Arial Black", Gadget, sans-serif;
-  text-align: center;
+  text-align: left;
 }
 .video-text {
   color: #888888;
