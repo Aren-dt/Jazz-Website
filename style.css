@@ -9,7 +9,7 @@ body {
 .wrapper {
   display: grid;
   grid-template-columns: 50% 50%;
-  grid-gap: 10px;
+  grid-gap: 100px;
 }
 
 .box {
@@ -24,11 +24,11 @@ h1 {
 }
 h2 {
   font-family: "Arial Black", Gadget, sans-serif;
-  text-align: left;
+  text-align: center;
 }
 h3 {
   font-family: "Arial Black", Gadget, sans-serif;
-  text-align: left;
+  text-align: center;
 }
 .video-text {
   color: #888888;
