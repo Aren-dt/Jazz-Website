@@ -14,6 +14,9 @@ body {
 .box {
   border: 20px;
 }
+.box.videos {
+  text-align:right;
+}
 h1 {
   font-family: Impact, Charcoal, sans-serif;
   text-align: center;
